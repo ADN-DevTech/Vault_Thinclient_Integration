@@ -11,3 +11,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 Vault_Thinclient_Integration
 ============================
+A sample of integrating Vault Explorer and Vault ThinClient. Of cause you can go further steps to save the thin client url into your ERP system, database or anywhere to do more integration. 
+
+Blog post about this: http://adndevblog.typepad.com/manufacturing/2013/12/generate-permanent-link-of-entities-in-vault-and-open-in-thin-client.html
